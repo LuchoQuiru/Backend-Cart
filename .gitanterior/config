@@ -1,0 +1,28 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/iaw-2022/LuchoQuiru-Laravel.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[remote "heroku"]
+	url = https://git.heroku.com/proyecto-laravel-lucho.git
+	fetch = +refs/heads/*:refs/remotes/heroku/*
+[branch "modificacion-de-datos"]
+	remote = origin
+	merge = refs/heads/modificacion-de-datos
+[branch "visualizacion-de-datos"]
+	remote = origin
+	merge = refs/heads/visualizacion-de-datos
+[branch "administracion-de-archivos"]
+	remote = origin
+	merge = refs/heads/administracion-de-archivos
+[branch "autorizacion-roles"]
+	remote = origin
+	merge = refs/heads/autorizacion-roles

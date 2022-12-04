@@ -1,0 +1,14 @@
+=== DATABASE_URL
+Plan:                  Hobby-dev
+Status:                Available
+Connections:           0/20
+PG Version:            14.2
+Created:               2022-03-29 19:20 UTC
+Data Size:             9.1 MB/1.00 GB (In compliance)
+Tables:                7
+Rows:                  -7/10000 (In compliance)
+Fork/Follow:           Unsupported
+Rollback:              Unsupported
+Continuous Protection: Off
+Add-on:                postgresql-pointy-98370
+
